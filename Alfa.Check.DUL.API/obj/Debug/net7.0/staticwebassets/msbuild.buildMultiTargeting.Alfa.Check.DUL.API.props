@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Alfa.Check.DUL.API.props" />
+</Project>
